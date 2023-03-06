@@ -1,0 +1,19 @@
+[
+  {
+    "from": "MIA",
+    "to": "SFO"
+  },
+  {
+      "from": "EZE",
+      "to": "MIA"
+  },
+  
+  {
+      "from": "SFO",
+      "to": "GRU"
+  },
+  {
+      "from": "GRU",
+      "to": "SCL"
+  }
+]
