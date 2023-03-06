@@ -1,8 +1,10 @@
 # Flight Itinerary API v1
 
-## RESTful API With Node and TypeScript and MySQL, Mocha
-
-## Want to learn how to build this project?
+## Tech Stack
+1. nodeJS
+2. TypeScript
+3. MySQL2
+4. Mocha
 
 ## Want to use this project?
 
